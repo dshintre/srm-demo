@@ -1,0 +1,11 @@
+name: srm-demo
+
+channels:
+  - conda-forge
+  - defaults
+ 
+dependencies:
+  - python=3.13
+  - numpy
+  - matplotlib
+  - pandas
